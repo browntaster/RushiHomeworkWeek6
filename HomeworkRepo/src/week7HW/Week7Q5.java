@@ -45,9 +45,9 @@ public class Week7Q5 {
         System.out.println("|   Roll Number       : " +number+"              |");
         System.out.println("|------------------------------------------------|");
         System.out.println("|   Subject           :  Marks                   |");
-        System.out.println("|   Math              : "+mathMarks+"            |");
-        System.out.println("|   Science           : "+scienceMark+"          |");
-        System.out.println("|   English           : "+englishMark+"          |");
+        System.out.println("|   Math              : "+mathMarks+"              |");
+        System.out.println("|   Science           : "+scienceMark+"            |");
+        System.out.println("|   English           : "+englishMark+"            |");
         System.out.println("|________________________________________________|");
         System.out.println("|   Total             : "+totalMarks+"           |");
         System.out.println("|________________________________________________|");

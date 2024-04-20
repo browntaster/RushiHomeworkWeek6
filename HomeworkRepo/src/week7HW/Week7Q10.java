@@ -39,7 +39,7 @@ double SalesCommission = SalesAmount*commissionPercentage;
         System.out.println("Saller's Name: " + SallerName);
         System.out.println("Sales Amount: " +SalesAmount);
         System.out.println("Salary Basic: " + SalaryBasic);
-        System.out.println("Comission Percentage: " + (commissionPercentage*100) + "%" );
+        System.out.println("Comission Percentage:  " + (commissionPercentage*100) + "%" );
         System.out.println("Sales Commision: " + SalesCommission);
 
     }

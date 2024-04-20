@@ -29,9 +29,9 @@ public class Week7Q6 {
         System.out.println("|                                   |");
         System.out.println("| Basic Salary     : "+basicSalary+"|");
         System.out.println("| HRA 10%          : "+HRA+"        |");
-        System.out.println("| TA 8%            : "+TA+"         |");
-        System.out.println("| DA 9%            : "+DA+"         |");
-        System.out.println("| PF 20%           : "+PF+"         |");
+        System.out.println("| TA 8%            : "+TA+"           |");
+        System.out.println("| DA 9%            : "+DA+"           |");
+        System.out.println("| PF 20%           : "+PF+"           |");
         System.out.println("|___________________________________|");
         System.out.println("|                                   |");
         System.out.println("| Gross Salary     : "+grossSalary+"|");
