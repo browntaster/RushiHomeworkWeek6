@@ -9,7 +9,7 @@ public class Q8 {
         System.out.println("Number of classes held: ");
         int classesHeld = sc.nextInt();
 
-        System.out.println("Number of classes attend: ");
+        System.out.println("Number of classes Student attend: ");
         int classesAttend = sc.nextInt();
 
         double percentage = ((double) classesAttend/classesHeld)*100;

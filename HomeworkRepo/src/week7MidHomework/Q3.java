@@ -5,7 +5,7 @@ public class Q3 {
         int i =0;
 
         while (i<1){
-            System.out.println("Condition is always true.");
+            System.out.println("Condition is always true....");
         }
     }
 }

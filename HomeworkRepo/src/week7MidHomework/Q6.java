@@ -13,7 +13,7 @@ Ask user to enter marks and print the corresponding grade.*/
 public class Q6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the Marks: ");
+        System.out.println("Enter the Student's Marks: ");
         int marks = sc.nextInt();
 
         String grade;

@@ -1,7 +1,8 @@
 package week7MidHomework;
 
 import java.util.Scanner;
-
+/*10. Write a program to print the sum of two numbers entered by user by defining your
+own method.*/
 public class Q10 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

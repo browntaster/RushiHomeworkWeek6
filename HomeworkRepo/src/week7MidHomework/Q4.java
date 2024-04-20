@@ -6,16 +6,16 @@ public class Q4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter the length of Rectangle");
+        System.out.println("Enter the length of Rectangle: ");
         double length = sc.nextDouble();
 
-        System.out.println("Enter the breadth of Rectangle");
+        System.out.println("Enter the breadth of Rectangle: ");
         double breadth = sc.nextDouble();
 
         if (length == breadth){
-            System.out.println("It's rectangle");
+            System.out.println("It's Square");
         } else {
-            System.out.println("Its not rectangle");
+            System.out.println("Its not Square");
         }
 
 
